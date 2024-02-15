@@ -1,0 +1,13 @@
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\bin\Debug\BasedeDatos_Angel.exe.config
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\bin\Debug\BasedeDatos_Angel.exe
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\bin\Debug\BasedeDatos_Angel.pdb
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.csproj.AssemblyReference.cache
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Inicio_Sesion.resources
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Properties.Resources.resources
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.csproj.GenerateResource.cache
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.csproj.CoreCompileInputs.cache
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.exe
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.pdb
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Perfil_Usuarios.resources
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Registro_Usuarios.resources
+C:\Users\dakos\source\repos\BasedeDatos_Angel\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Crear_Listas.resources
