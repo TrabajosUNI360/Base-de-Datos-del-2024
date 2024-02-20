@@ -52,11 +52,23 @@
     <Compile Include="Crear_Listas.Designer.cs">
       <DependentUpon>Crear_Listas.cs</DependentUpon>
     </Compile>
-    <Compile Include="Perfil_Usuarios.cs">
+    <Compile Include="Perfil_Usuarios_Vendedor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Perfil_Usuarios.Designer.cs">
-      <DependentUpon>Perfil_Usuarios.cs</DependentUpon>
+    <Compile Include="Perfil_Usuarios_Vendedor.Designer.cs">
+      <DependentUpon>Perfil_Usuarios_Vendedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perfil_Usuarios_Publico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfil_Usuarios_Publico.Designer.cs">
+      <DependentUpon>Perfil_Usuarios_Publico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perfil_Usuarios_Privado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfil_Usuarios_Privado.Designer.cs">
+      <DependentUpon>Perfil_Usuarios_Privado.cs</DependentUpon>
     </Compile>
     <Compile Include="Registro_Usuarios.cs">
       <SubType>Form</SubType>
@@ -75,8 +87,14 @@
     <EmbeddedResource Include="Crear_Listas.resx">
       <DependentUpon>Crear_Listas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Perfil_Usuarios.resx">
-      <DependentUpon>Perfil_Usuarios.cs</DependentUpon>
+    <EmbeddedResource Include="Perfil_Usuarios_Publico.resx">
+      <DependentUpon>Perfil_Usuarios_Publico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfil_Usuarios_Privado.resx">
+      <DependentUpon>Perfil_Usuarios_Privado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfil_Usuarios_Vendedor.resx">
+      <DependentUpon>Perfil_Usuarios_Vendedor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Registro_Usuarios.resx">
       <DependentUpon>Registro_Usuarios.cs</DependentUpon>

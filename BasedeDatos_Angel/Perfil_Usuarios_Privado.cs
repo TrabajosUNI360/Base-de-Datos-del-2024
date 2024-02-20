@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BasedeDatos_Angel
 {
-    public partial class Perfil_Usuarios : Form
+    public partial class Perfil_Usuarios_Privado : Form
     {
-        public Perfil_Usuarios()
+        public Perfil_Usuarios_Privado()
         {
             InitializeComponent();
         }
