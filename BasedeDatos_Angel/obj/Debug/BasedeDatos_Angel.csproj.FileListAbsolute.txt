@@ -30,3 +30,7 @@ C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\
 C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Editar_Listas.resources
 C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Eliminar_Listas.resources
 C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Perfil_Usuarios_Admin.resources
+C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Carrito_Compras.resources
+C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Consulta_Detallada.resources
+C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Mis_Productos.resources
+C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Nuevo_Producto.resources

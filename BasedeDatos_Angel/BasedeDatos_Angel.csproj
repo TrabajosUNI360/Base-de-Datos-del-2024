@@ -76,6 +76,24 @@
     <Compile Include="Carrito_Compras.Designer.cs">
       <DependentUpon>Carrito_Compras.cs</DependentUpon>
     </Compile>
+    <Compile Include="Consulta_Detallada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta_Detallada.Designer.cs">
+      <DependentUpon>Consulta_Detallada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta_Agrupada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta_Agrupada.Designer.cs">
+      <DependentUpon>Consulta_Agrupada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pedido_Realizado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pedido_Realizado.Designer.cs">
+      <DependentUpon>Pedido_Realizado.cs</DependentUpon>
+    </Compile>
     <Compile Include="Nuevo_Producto.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -132,6 +150,9 @@
     <EmbeddedResource Include="Carrito_Compras.resx">
       <DependentUpon>Carrito_Compras.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Consulta_Detallada.resx">
+      <DependentUpon>Consulta_Detallada.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Crear_Listas.resx">
       <DependentUpon>Crear_Listas.cs</DependentUpon>
     </EmbeddedResource>
@@ -141,11 +162,17 @@
     <EmbeddedResource Include="Eliminar_Listas.resx">
       <DependentUpon>Eliminar_Listas.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Consulta_Agrupada.resx">
+      <DependentUpon>Consulta_Agrupada.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Mis_Productos.resx">
       <DependentUpon>Mis_Productos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Nuevo_Producto.resx">
       <DependentUpon>Nuevo_Producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pedido_Realizado.resx">
+      <DependentUpon>Pedido_Realizado.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Perfil_Usuarios_Admin.resx">
       <DependentUpon>Perfil_Usuarios_Admin.cs</DependentUpon>
