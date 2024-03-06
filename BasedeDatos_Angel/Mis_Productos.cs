@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BasedeDatos_Angel
 {
-    public partial class Form1 : Form
+    public partial class Mis_Productos : Form
     {
-        public Form1()
+        public Mis_Productos()
         {
             InitializeComponent();
         }
