@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace BasedeDatos_Angel
 {
-    public partial class Perfil_Usuarios_Publico : Form
+    public partial class Form1 : Form
     {
-        public Perfil_Usuarios_Publico()
+        public Form1()
         {
             InitializeComponent();
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox4_Enter(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -10,19 +10,14 @@ using System.Windows.Forms;
 
 namespace BasedeDatos_Angel
 {
-    public partial class Perfil_Usuarios_Publico : Form
+    public partial class Editar_Listas : Form
     {
-        public Perfil_Usuarios_Publico()
+        public Editar_Listas()
         {
             InitializeComponent();
         }
 
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox4_Enter(object sender, EventArgs e)
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }

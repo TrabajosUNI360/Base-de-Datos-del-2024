@@ -40,6 +40,7 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.checkBox6 = new System.Windows.Forms.CheckBox();
             this.checkBox5 = new System.Windows.Forms.CheckBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
@@ -59,10 +60,16 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.comprarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.listasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.agregarALaListaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.crearListaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.editarListaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.eliminarListaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.agregarALaListaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.productosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.misProductosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.editarProductosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.eliminarProductosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.nuevoProductosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.comprarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -185,6 +192,7 @@
             // groupBox2
             // 
             this.groupBox2.BackColor = System.Drawing.Color.Transparent;
+            this.groupBox2.Controls.Add(this.checkBox6);
             this.groupBox2.Controls.Add(this.checkBox5);
             this.groupBox2.Controls.Add(this.textBox4);
             this.groupBox2.Controls.Add(this.label9);
@@ -200,17 +208,29 @@
             this.groupBox2.Font = new System.Drawing.Font("Yu Gothic", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.Location = new System.Drawing.Point(12, 240);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(424, 192);
+            this.groupBox2.Size = new System.Drawing.Size(555, 192);
             this.groupBox2.TabIndex = 12;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Datos de Perfil";
+            // 
+            // checkBox6
+            // 
+            this.checkBox6.AutoSize = true;
+            this.checkBox6.Font = new System.Drawing.Font("Yu Gothic", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.checkBox6.ForeColor = System.Drawing.Color.Red;
+            this.checkBox6.Location = new System.Drawing.Point(426, 147);
+            this.checkBox6.Name = "checkBox6";
+            this.checkBox6.Size = new System.Drawing.Size(131, 23);
+            this.checkBox6.TabIndex = 17;
+            this.checkBox6.Text = "Administrador";
+            this.checkBox6.UseVisualStyleBackColor = true;
             // 
             // checkBox5
             // 
             this.checkBox5.AutoSize = true;
             this.checkBox5.Font = new System.Drawing.Font("Yu Gothic", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.checkBox5.ForeColor = System.Drawing.Color.Red;
-            this.checkBox5.Location = new System.Drawing.Point(325, 147);
+            this.checkBox5.Location = new System.Drawing.Point(323, 147);
             this.checkBox5.Name = "checkBox5";
             this.checkBox5.Size = new System.Drawing.Size(97, 23);
             this.checkBox5.TabIndex = 16;
@@ -268,7 +288,7 @@
             // 
             this.checkBox3.AutoSize = true;
             this.checkBox3.ForeColor = System.Drawing.Color.Red;
-            this.checkBox3.Location = new System.Drawing.Point(228, 148);
+            this.checkBox3.Location = new System.Drawing.Point(227, 148);
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(91, 23);
             this.checkBox3.TabIndex = 9;
@@ -361,7 +381,7 @@
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(442, 240);
+            this.pictureBox2.Location = new System.Drawing.Point(573, 240);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(302, 279);
             this.pictureBox2.TabIndex = 14;
@@ -371,10 +391,12 @@
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.comprarToolStripMenuItem,
-            this.listasToolStripMenuItem});
+            this.listasToolStripMenuItem,
+            this.productosToolStripMenuItem,
+            this.comprarToolStripMenuItem1});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(745, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(881, 24);
             this.menuStrip1.TabIndex = 15;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -395,6 +417,12 @@
             this.listasToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
             this.listasToolStripMenuItem.Text = "Listas";
             // 
+            // agregarALaListaToolStripMenuItem
+            // 
+            this.agregarALaListaToolStripMenuItem.Name = "agregarALaListaToolStripMenuItem";
+            this.agregarALaListaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.agregarALaListaToolStripMenuItem.Text = "Agregar a la Lista";
+            // 
             // crearListaToolStripMenuItem
             // 
             this.crearListaToolStripMenuItem.Name = "crearListaToolStripMenuItem";
@@ -413,18 +441,53 @@
             this.eliminarListaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.eliminarListaToolStripMenuItem.Text = "Eliminar Lista";
             // 
-            // agregarALaListaToolStripMenuItem
+            // productosToolStripMenuItem
             // 
-            this.agregarALaListaToolStripMenuItem.Name = "agregarALaListaToolStripMenuItem";
-            this.agregarALaListaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.agregarALaListaToolStripMenuItem.Text = "Agregar a la Lista";
+            this.productosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.misProductosToolStripMenuItem,
+            this.nuevoProductosToolStripMenuItem,
+            this.editarProductosToolStripMenuItem,
+            this.eliminarProductosToolStripMenuItem});
+            this.productosToolStripMenuItem.Name = "productosToolStripMenuItem";
+            this.productosToolStripMenuItem.Size = new System.Drawing.Size(73, 20);
+            this.productosToolStripMenuItem.Text = "Productos";
+            // 
+            // misProductosToolStripMenuItem
+            // 
+            this.misProductosToolStripMenuItem.Name = "misProductosToolStripMenuItem";
+            this.misProductosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.misProductosToolStripMenuItem.Text = "Mis Productos";
+            // 
+            // editarProductosToolStripMenuItem
+            // 
+            this.editarProductosToolStripMenuItem.Name = "editarProductosToolStripMenuItem";
+            this.editarProductosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.editarProductosToolStripMenuItem.Text = "Editar Productos";
+            // 
+            // eliminarProductosToolStripMenuItem
+            // 
+            this.eliminarProductosToolStripMenuItem.Name = "eliminarProductosToolStripMenuItem";
+            this.eliminarProductosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.eliminarProductosToolStripMenuItem.Text = "Eliminar Productos";
+            // 
+            // nuevoProductosToolStripMenuItem
+            // 
+            this.nuevoProductosToolStripMenuItem.Name = "nuevoProductosToolStripMenuItem";
+            this.nuevoProductosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.nuevoProductosToolStripMenuItem.Text = "Nuevo Productos";
+            // 
+            // comprarToolStripMenuItem1
+            // 
+            this.comprarToolStripMenuItem1.Name = "comprarToolStripMenuItem1";
+            this.comprarToolStripMenuItem1.Size = new System.Drawing.Size(66, 20);
+            this.comprarToolStripMenuItem1.Text = "Comprar";
             // 
             // Registro_Usuarios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.ClientSize = new System.Drawing.Size(745, 519);
+            this.ClientSize = new System.Drawing.Size(881, 519);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox3);
@@ -486,5 +549,12 @@
         private System.Windows.Forms.ToolStripMenuItem editarListaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem eliminarListaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem agregarALaListaToolStripMenuItem;
+        private System.Windows.Forms.CheckBox checkBox6;
+        private System.Windows.Forms.ToolStripMenuItem productosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem misProductosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem editarProductosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem eliminarProductosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem nuevoProductosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem comprarToolStripMenuItem1;
     }
 }

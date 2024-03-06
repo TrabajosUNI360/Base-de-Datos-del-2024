@@ -16,7 +16,6 @@ C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\bin\
 C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\bin\Debug\BasedeDatos_Angel.pdb
 C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.csproj.AssemblyReference.cache
 C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Crear_Listas.resources
-C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Perfil_Usuarios.resources
 C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Registro_Usuarios.resources
 C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Inicio_Sesion.resources
 C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Properties.Resources.resources
@@ -24,3 +23,10 @@ C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\
 C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.csproj.CoreCompileInputs.cache
 C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.exe
 C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.pdb
+C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Perfil_Usuarios_Publico.resources
+C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Perfil_Usuarios_Privado.resources
+C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Perfil_Usuarios_Vendedor.resources
+C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Agregar_Lista.resources
+C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Editar_Listas.resources
+C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Eliminar_Listas.resources
+C:\Users\dakos\OneDrive\Documentos\Base de Datos del 2024\BasedeDatos_Angel\obj\Debug\BasedeDatos_Angel.Perfil_Usuarios_Admin.resources
